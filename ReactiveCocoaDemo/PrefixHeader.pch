@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  ReactiveCocoaDemo
+//
+//  Created by XiongZenghui on 15/6/23.
+//  Copyright (c) 2015年 XiongZenghui. All rights reserved.
+//
+
+#ifndef ReactiveCocoaDemo_PrefixHeader_pch
+#define ReactiveCocoaDemo_PrefixHeader_pch
+
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACScopedDisposable.h>
+#import <ReactiveCocoa/NSNotificationCenter+RACSupport.h>
+#import <Masonry/Masonry.h>
+
+#endif
